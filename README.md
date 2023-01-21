@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yash124gamer
+- 👋 Hi, I’m Yash
 - 👀 I’m interested in programing/Coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
